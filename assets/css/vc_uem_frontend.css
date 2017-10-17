@@ -1,0 +1,12 @@
+ul#sortable_items li {
+    background: #f7f7f7;
+    padding: 10px;
+    border: 1px solid #c0c0c0;
+    cursor: pointer;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+ul#sortable_items {
+    width: 30%;
+}
